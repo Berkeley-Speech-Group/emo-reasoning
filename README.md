@@ -1,6 +1,6 @@
 # EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems
 
-This is the repository that contains source code for the [project website](https://TODO/).
+This is the repository that contains source code for the [project website](https://berkeley-speech-group.github.io/emo-reasoning/).
 
 If you find our research useful for your work please cite:
 ```
